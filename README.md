@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahir-DA-DS
+- 👋 Hi, I’m Tahir Adeleye
 - 👀 I’m interested in backend technologies
 - 🌱 I'm proficient working with Node.js and Express, Python, CSS and HTML
 - 💞️ I’m looking to collaborate on backend related projects.
